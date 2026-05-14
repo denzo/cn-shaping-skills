@@ -30,7 +30,7 @@ ln -s ~/.local/share/cn-shaping-skills/cn-breadboard ~/.claude/skills/cn-breadbo
 
 - [Claude Code](https://claude.com/claude-code) installed and signed in
 - [rjs/shaping-skills](https://github.com/rjs/shaping-skills) installed (cn-breadboard delegates to its `/breadboarding` skill)
-- `cn` CLI installed and authenticated against your CreatorNotes workspace
+- [`cn` CLI](https://www.npmjs.com/package/@creator-notes/cli) installed and authenticated against your [CreatorNotes workspace](https://creatornotes.app/agent-memory)
 - A workspace selected: `cn workspace select <id>`
 
 ## Conventions
