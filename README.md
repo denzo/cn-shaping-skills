@@ -16,7 +16,7 @@ Follows the upstream `/breadboarding` skill for the analysis step, then handles 
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/<org>/cn-shaping-skills.git ~/.local/share/cn-shaping-skills
+git clone https://github.com/denzo/cn-shaping-skills.git ~/.local/share/cn-shaping-skills
 
 # 2. Symlink each skill into your Claude Code skills directory
 ln -s ~/.local/share/cn-shaping-skills/cn-breadboard ~/.claude/skills/cn-breadboard
