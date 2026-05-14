@@ -1,6 +1,6 @@
 # cn-shaping-skills
 
-[Claude Code](https://claude.com/claude-code) skills for using [Shape Up](https://basecamp.com/shapeup) methods with [CreatorNotes](https://creatornotes.app) as the output target.
+[Claude Code](https://claude.com/claude-code) skills for using [Shape Up](https://basecamp.com/shapeup) methods with [CreatorNotes](https://creatornotes.app/agent-memory) as the output target.
 
 Built on [rjs/shaping-skills](https://github.com/rjs/shaping-skills). Same methodology, same affordance grammar, same conventions. The difference is the output: instead of writing markdown files to your repo, these skills create CreatorNotes canvases via the `cn` CLI. The canvas becomes the source of truth.
 
